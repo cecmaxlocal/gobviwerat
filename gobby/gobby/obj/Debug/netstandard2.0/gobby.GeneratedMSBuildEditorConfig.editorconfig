@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = gobby
+build_property.ProjectDir = /home/denis/Desktop/app/cec/gobviwerat/gobby/gobby/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
