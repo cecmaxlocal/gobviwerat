@@ -1,0 +1,14 @@
+name: client_names_service
+description: A Dart client and service project.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  # Add any dependencies your Dart service needs here
+
+dev_dependencies:
+  # Add any dev dependencies (e.g., test frameworks) here
+
+# For Dart projects, Flutter-specific fields like assets are omitted
