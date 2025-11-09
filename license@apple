@@ -1,0 +1,36 @@
+Apple software licenses generally fall into these main categories:
+
+- **Preinstalled and Single-Copy Apple Software License:** For software preinstalled on Apple-branded hardware, this license grants a limited, non-exclusive, non-transferable license to run the software on a single Apple-branded device. It restricts use to Apple hardware and personal or internal use.
+
+- **Mac App Store License:** Software obtained via the Mac App Store or automatic downloads is licensed for personal, non-commercial use on Apple-branded devices, with terms defined by the App Store Usage Rules.
+
+- **Developer Program License:** Apple grants limited licenses for developers to use Apple software and services for developing, testing, and distributing apps under the Apple Developer Program License Agreement.
+
+Key conditions typically include:
+- Limited use on Apple-branded devices.
+- Restrictions on redistribution, copying, or reverse engineering.
+- Compliance with Apple's End-User License Agreement (EULA).
+- Specific rules for leasing or sublicensing in some cases.
+
+Apple's licenses are proprietary and more restrictive than open source licenses, focusing on protecting its software and hardware ecosystem while allowing users to use the software within defined boundaries.
+
+For detailed terms, Apple provides official Software License Agreements per product, covering macOS, iOS, developer tools, and other software. These agreements are available on Apple's legal pages and accompany software installations.
+
+In summary:
+- Apple licenses are mostly proprietary with device-bound usage rights.
+- Personal, non-commercial use is generally allowed on Apple devices.
+- Redistribution, modification, and commercial use are usually restricted without explicit permission.
+- Apple's Developer Program offers separate licensing for app development activities.
+
+This is a high-level overview; consult Apple's official license agreements for precise terms per software product.[1][3][6][9]
+
+[1](https://www.apple.com/legal/sla/docs/macOS1012TouchID.pdf)
+[2](https://www.privacypolicies.com/blog/types-software-licenses/)
+[3](https://www.apple.com/legal/sla/docs/macOSSequoia.pdf)
+[4](https://www.apple.com/legal/sla/docs/macOSVentura.pdf)
+[5](https://www.apple.com/br/legal/sla/)
+[6](https://www.apple.com/legal/sla/)
+[7](https://developer.apple.com/support/compare-memberships/)
+[8](https://spdx.org/licenses/AML.html)
+[9](https://developer.apple.com/support/terms/apple-developer-program-license-agreement/)
+[10](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)

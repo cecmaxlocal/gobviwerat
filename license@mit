@@ -1,0 +1,26 @@
+The MIT License is a simple, permissive open source software license, allowing nearly unrestricted reuse of software, with minimal conditions. Microsoft uses the MIT License for many of its open source projects, such as Visual Studio Code and the .NET libraries.
+
+Key points of MIT License (as used by Microsoft):
+
+- The software is provided "as is", without warranty of any kind, express or implied.
+- Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
+- The only requirement is to include the original copyright notice and license text in all copies or substantial portions of the software.
+- It allows proprietary use and sublicensing, making it business-friendly and flexible.
+- It imposes no restrictions on the licensing of derivative works.
+
+Microsoft provides its own proprietary software under separate license terms, which are generally more restrictive than MIT, but many Microsoft open source projects adopt the MIT License for maximum openness and community adoption.
+
+In summary:
+
+- MIT License is widely adopted by Microsoft for open source projects.
+- It allows free and flexible use with attribution.
+- It is distinct from Microsoft's proprietary license agreements which govern most commercial Microsoft software.
+
+For official Microsoft open source projects under MIT, you generally agree to the MIT terms linked with the software repository, allowing broad freedom to use and modify the code with attribution.[1][2][4]
+
+If you want detailed Microsoft proprietary license terms, those vary by product and are more restrictive.
+
+[1](https://docs.oracle.com/en/industries/food-beverage/simphony/simlg/microsoft_license_software_terms.htm)
+[4](https://opensource.org/license/mit)
+[5](https://www.microsoft.com/en/servicesagreement)
+[6](https://code.visualstudio.com/license)

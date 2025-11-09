@@ -1,0 +1,24 @@
+Dell machines typically come with OEM (Original Equipment Manufacturer) licenses for software, most commonly for Microsoft Windows operating systems. These licenses are tied to the hardware — especially the motherboard — and are non-transferable to other systems. Key points about Dell licenses include:
+
+- Dell OEM Windows licenses are valid for the life of the device and are typically pre-activated via a digital entitlement linked to the specific hardware.
+- If the motherboard is replaced, activation may fail, but Dell sometimes provides a Digital Product Key (DPK) for replacement hardware to restore activation.
+- OEM licenses are equivalent to retail licenses in functionality but cannot be transferred to a different computer.
+- Dell also offers licenses and subscriptions for various software products including server management tools (e.g., OpenManage licenses), Windows Server licenses, and other enterprise software.
+- Licensing types include perpetual licenses, subscription licenses, and per-core licenses for certain Windows Server editions.
+- Users should comply with Dell's End User License Agreement, which restricts redistribution, reverse engineering, and unauthorized use of software.
+- Dell provides license management portals and tools to manage, download, and activate software licenses tied to their hardware.
+
+In summary, Dell licenses especially for Windows are hardware-bound OEM licenses with terms restricting transfer and requiring activation tied to Dell hardware configurations. Server and enterprise software licenses have additional complexities including subscription options and usage rights. For activation or license management, Dell’s official support and licensing portals should be used.
+
+If you need details on specific Dell software licenses or how to manage them, Dell’s official licensing documentation and support resources are recommended.[1][3][4][6][7][8]
+
+[1](https://www.delltechnologies.com/asset/pl-pl/products/servers/industry-market/openmanage-portfolio-software-licensing-guide.pdf)
+[2](https://www.dell.com/support/kbdoc/en-us/000224397/per-core-per-user-per-device-and-rds-cals-in-a-nutshell)
+[3](https://www.dell.com/support/kbdoc/en-vn/000126935/requirements-for-dell-windows-10-activation)
+[4](https://www.dell.com/en-us/lp/legal/art-software-license-agreements)
+[5](https://www.dell.com/en-us/lp/dt/training-and-certification)
+[6](https://www.dell.com/support/home/en-us?app=licenses)
+[7](https://www.dell.com/en-us/shopping/subscription-licenses)
+[8](https://www.dell.com/support/contents/en-vg/videos/videoplayer/windows-server-licensing-for-poweredge-servers/6361113653112)
+[9](https://www.reddit.com/r/Dell/comments/1gctzvy/are_you_allowed_to_use_a_dell_windows_product_key/)
+[10](https://www.dell.com/support/contents/en-us/videos/videoplayer/how-to-manage-software-licenses-and-subscriptions-in-dell-my-account/6372738247112)

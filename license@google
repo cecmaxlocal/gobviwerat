@@ -1,0 +1,33 @@
+Google offers various software licenses depending on the software or service, including open source projects and proprietary platforms:
+
+- Many Google open source projects are licensed under the permissive Apache License 2.0 or similar licenses like MIT. For example, Android and many Google Developer Platform projects use Apache 2.0, which allows free use, modification, and distribution with attribution.
+
+- Google software licenses for commercial products and cloud services vary by product and licensing model. These can include:
+  - Free licenses with no charge for usage (common in Google Cloud Platform with open-source OS images).
+  - Pay-as-you-go (PAYG) licenses billed based on usage or subscription.
+  - Bring Your Own License (BYOL) options allowing use of existing licenses from other vendors on Google infrastructure.
+  - Enterprise licenses for premium features and support.
+
+- Google’s proprietary products, such as Google Workspace or proprietary software, have their own end-user license agreements outlining usage rights, restrictions, and privacy terms.
+
+- For developer platforms, Google generally licenses code under open source licenses like Apache 2.0 to encourage adoption and collaboration.
+
+- Google also offers specific licensing for APIs, developer tools, and cloud resources with terms accessible via their respective documentation.
+
+In summary, Google uses a mix of:
+- Permissive open source licenses like Apache 2.0 for many projects,
+- Proprietary commercial licenses for paid products,
+- Subscription and usage-based licenses for cloud services.
+
+For exact terms, consult the license section in the specific Google product documentation or the open source project repository.[1][2][5][6][10]
+
+[1](https://opensource.google/documentation/reference/thirdparty/licenses)
+[2](https://www.scribd.com/document/893262134/Google-Licensing-Guide-1)
+[3](https://docs.cloud.google.com/compute/docs/licenses/about)
+[4](https://docs.cloud.google.com/terms/looker/legal/customers/licensing/index-20220214)
+[5](https://developers.google.com/open-source/devplat)
+[6](https://source.android.com/license)
+[7](https://myaccount.google.com/termsofservice)
+[8](https://support.google.com/youtube/answer/2797468?hl=en)
+[9](https://docs.google.com/file/d/1pksLP2fASI0dsrHVQlm7Gx5p2Vvygv8F/edit)
+[10](https://licenseq.com/google-cloud-platform-licensing/)

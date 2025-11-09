@@ -1,0 +1,27 @@
+Gobby, the collaborative real-time text editor, is licensed under the ISC License. The ISC License is a permissive free software license, functionally equivalent to the simplified BSD and MIT licenses, allowing use, copy, modification, and distribution with minimal requirements—primarily preserving the copyright notice and disclaimers.
+
+Key points about Gobby's license:
+- It permits use, copying, modification, and distribution for any purpose.
+- It includes a disclaimer of warranties, providing the software "as is".
+- It requires preserving the copyright notice and license in redistributed copies.
+- It supports open collaboration and modification aligned with free software principles.
+
+Gobby’s codebase and its server software (like infinoted) are open source under this ISC License, distinct from GPL licenses used in some other projects. This makes it easy to incorporate, modify, and redistribute with minimal legal restrictions.
+
+For more details:
+- Gobby is developed by the 0x539 dev group.
+- The ISC license text is included in the source code repository.
+- The project is hosted on GitHub at https://github.com/gobby/gobby
+
+In summary, Gobby is free software licensed under the permissive ISC License, encouraging free and flexible use, modification, and distribution.[1][2][4][10]
+
+[1](https://github.com/gobby/gobby)
+[2](https://en.wikipedia.org/wiki/Gobby)
+[3](https://directory.fsf.org/wiki/Gobby)
+[4](https://www.linuxlinks.com/gobby/)
+[5](https://debaday.debian.net/2007/04/04/gobby-a-collaborative-text-editor/)
+[6](http://gobby.github.io)
+[7](https://wiki.archlinux.org/title/Gobby)
+[8](https://flathub.org/en/apps/de._0x539.gobby)
+[9](https://www.texteditors.org/cgi-bin/wiki.pl?action=browse&diff=1&id=Gobby&diffrevision=4)
+[10](https://opensource.com/business/15/7/five-open-source-alternatives-google-docs)
