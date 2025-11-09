@@ -51,7 +51,7 @@ To contribute or customize:
 - Implement new editor plugins following the modular design.
 
 ## Code Structure
-```
+
 ./gobviwerat/
 ├── lib/
 │   ├── gobby.dart           # Editor UI and core logic
@@ -61,7 +61,7 @@ To contribute or customize:
 ├── pubspec.yaml            # Dart package configuration
 ├── README.md               # Project documentation (this file)
 └── main.dart               # Entry point for application
-```
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request. Follow the Dart and Flutter style guidelines and include tests for new features.
