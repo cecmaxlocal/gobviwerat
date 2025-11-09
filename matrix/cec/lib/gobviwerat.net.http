@@ -1,0 +1,29 @@
+Here is a summary of Gobby, the collaborative text editor, to help guide the creation or understanding of an HTTP-based editor like "gobby" you mentioned:
+
+- Gobby is a multi-platform collaborative text editor supporting simultaneous editing by multiple users over the internet in real time.
+- It includes features such as syntax highlighting (using GtkSourceView), multi-document support in sessions, lock-free real-time collaboration, local group undo, cursor and selection display for remote users, and user-color highlighting.
+- It integrates an IRC-like chat for communication during editing sessions.
+- Gobby supports encrypted connections including perfect forward secrecy (PFS), optional password protection for sessions, and advanced access control lists (ACLs).
+- It runs on Windows, Linux, and Mac OS X (through X11), and features a dedicated server (infinoted) for managing collaborative sessions.
+- The editor is designed for plaintext editing but supports multiple programming and markup languages with syntax highlighting.
+- Gobby uses a client-server architecture, synchronizes documents on demand, and supports Zeroconf on Linux to automatically discover peers in the same network.
+
+If you want to create a Dart or web-based editor inspired by Gobby, you'd focus on:
+
+- WebSocket or HTTP for real-time collaborative editing communication.
+- Text editing components with syntax highlighting support.
+- User session and access control management.
+- Encrypted data transfer for security.
+- Integrated chat functionality alongside the editor.
+
+Would you like a specific Dart/Flutter example to start an HTTP-based collaborative editor inspired by Gobby? Or details on server/client implementation? This guidance can be tailored to your needs.
+
+[1](https://debaday.debian.net/2007/04/04/gobby-a-collaborative-text-editor/)
+[2](https://github.com/gobby/gobby/wiki)
+[3](https://www.linuxlinks.com/gobby/)
+[4](https://en.wikipedia.org/wiki/Gobby)
+[5](http://gobby.github.io)
+[6](https://www.reddit.com/r/programming/comments/84t7z/gobby_a_collaborative_text_editor_supporting/)
+[7](https://flathub.org/pt/apps/de._0x539.gobby)
+[8](https://www.faqforge.com/linux/gobby-a-collaborative-text-editor-for-ubuntu-linux/)
+[9](https://github.com/gobby/gobby)

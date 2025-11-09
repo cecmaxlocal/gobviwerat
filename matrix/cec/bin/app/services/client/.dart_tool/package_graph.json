@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "client_names_service"
+  ],
+  "packages": [
+    {
+      "name": "client_names_service",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
